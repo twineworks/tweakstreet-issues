@@ -1,15 +1,3 @@
-# Tweakstreet Issue Tracker
-
-## The issue list
-
-Go to https://github.com/twineworks/tweakstreet-issues/issues for a list of all issues or click `Issues` in the navigation bar on the almost-top.
-
-Use [Github's reactions feature](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments) to vote on issues.
-
-## Before creating a new issue
-
-* Search for the issue [here](https://github.com/twineworks/tweakstreet-issues/search?q=&type=Issues) to check if it was already reported.
-
 ## Filing a bug
 
   - Start with a **subject** that concisely identifies the problem.
